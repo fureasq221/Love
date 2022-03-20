@@ -1,4 +1,5 @@
 ## Добро пожаловать в мастерскую красоты "Тюльпан"!!!
+![Screenshot_3](https://user-images.githubusercontent.com/101971807/159163020-163d96b8-c62f-4416-a96a-e13b2850b647.png)
 
 Парикмахерский лейбл HairFcker
 Существует с 2010 года
@@ -36,4 +37,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Контакты
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Г. Санкт-Петербург, ул. Кирова д.6 Тел: 8(812) 548-88-21
